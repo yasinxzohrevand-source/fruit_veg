@@ -4,6 +4,13 @@
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras)  
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  
 
+## 🚀 Demo on Hugging Face
+
+You can try the model directly on Hugging Face Spaces:  
+👉 [Click here to open the demo](https://huggingface.co/spaces/yasinxz/Fruit_veg_scanner)
+
+
+
 ## 📌 Overview  
 This project implements a **fruit classification system** using **transfer learning** with **MobileNetV2**.  
 The model was trained on a dataset of fruit images, achieving an accuracy of **~90%** on the validation set.  
@@ -120,4 +127,7 @@ jupyter notebook Untitled.ipynb
 
 ---
 
-✍️ Developed with ❤️ using **Python + TensorFlow/Keras**.  
+✍️ Developed with **Python + TensorFlow/Keras**.  
+
+
+
